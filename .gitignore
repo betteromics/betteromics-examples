@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__
+.python-version
+.env
+*.ipynb_checkpoints
+
+# Visual Studio Code
+.vscode/*
+
