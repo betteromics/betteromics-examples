@@ -1,5 +1,6 @@
 # Betteromics
-Betteromics is an integrated data platform catering to the life sciences industry, offering a comprehensive solution for managing, analyzing, and visualizing multi-omics data. This platform centralizes data storage, thereby facilitating seamless collaboration and data sharing across cross-functional teams. It further offers a rich array of data management, analysis, and visualization tools, expediting the extraction of valuable insights from your data.
+Betteromics is an AI omics platform that facilitates seamless collaboration across cross-functional teams to expedite the extraction of valuable insights from your data.
+
 
 Within this repository, you will find resources and guidance that empower you to optimize your data analysis processes through the utilization of the Betteromics API.
 
@@ -60,7 +61,7 @@ Now you're all set to explore and run the data analysis examples using Jupyter N
 
 
 ## How to access data
-The API documentation and instructions to access data on Betteromics platform can be found in the `src` directory in this repository, which contains code in both python and R. After downloading the utility file based on your programming language preference, proceed to the examples directory for further instructions. You will find how to import the `utils` file and connect to data within each of the jupyter notebooks for a given examples. 
+The API documentation and instructions to access data on Betteromics platform can be found inside the notebooks and is provided in both python and R. After downloading [Betteromics Examples Repository](https://github.com/betteromics/betteromics-examples/archive/refs/heads/main.zip), proceed to the example notebooks based on your language of choice for further instructions. You will find how to import the `utils` file and connect to data within each of the jupyter notebooks for a given examples. 
 Once you have access to the specific public data, you can further explore and analyze the data using Betteromics.
 
 
@@ -71,6 +72,9 @@ Once you have access to the specific public data, you can further explore and an
 
 
 # Changelog
+Version 0.1.1 (2023.10.27)
+Refactor file layout.
+
 Version 0.1 (2023.10.10)
 Initial release
 
