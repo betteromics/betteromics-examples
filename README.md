@@ -72,6 +72,12 @@ Once you have access to the specific public data, you can further explore and an
 
 
 # Changelog
+Version 0.3.0 (2023.12.15)
+Added tutorials on how to run Nextflow in Betteromics
+
+Version 0.2.0 (2023.12.01)
+Added Betteromics CLI Tutorial 
+
 Version 0.1.1 (2023.10.27)
 Refactor file layout.
 
