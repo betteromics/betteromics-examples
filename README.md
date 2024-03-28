@@ -72,6 +72,9 @@ Once you have access to the specific public data, you can further explore and an
 - The Cancer Genome Atlas Program [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
 
 # Changelog
+Version 0.4.1 (2024.03.28)
+Fix output of cli_example.ipynb notebook
+
 Version 0.4.0 (2024.03.21)
 Added hello_betteromics workflow template
 
